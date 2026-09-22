@@ -1,4 +1,4 @@
-﻿# CourseBlog
+# CourseBlog
 Консольный прототип блога для курса «Командное проектирование и разработка».
 
 ## Запуск
@@ -13,6 +13,6 @@ Enter раскрывает меню, стрелки вверх и вниз вы�
 
 ## История Git
 master — итог; final — объединение; feature/view, feature/add, feature/comments — функции.
-Обмен изменениями проверен через локальный bare-репозиторий shared.git. Публикация GitHub и приглашение участника не выполнялись. Все изменения сделаны одним автором.
+Обмен изменениями проверен через локальный bare-репозиторий shared.git. Проект опубликован в GitHub: https://github.com/gurinovtrytek-tech/CourseBlog. Все изменения сделаны одним автором.
 Git bundle сохраняет историю: git clone -b master CourseBlog.bundle restored-blog.
 Учебный email автора student@example.test не является адресом для связи.
